@@ -1,3 +1,0 @@
-/home/etud/o2154230/CLionProjects/ProjetL3Audacity/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/etud/o2154230/CLionProjects/ProjetL3Audacity/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/etud/o2154230/CLionProjects/ProjetL3Audacity/cmake-build-debug/CMakeFiles/ProjetL3Audacity.dir
